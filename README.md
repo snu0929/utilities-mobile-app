@@ -15,6 +15,8 @@ This is a React Native Utility Application built using Expo. The application inc
 - Usage
 - Screenshots
 - Technologies Used
+- How to Scan QR Code
+- Download APK
 - Contributing
 - License
 
@@ -54,9 +56,13 @@ This is a React Native Utility Application built using Expo. The application inc
 
 ## Screenshots
 
-![Home Screen](path-to-screenshot-1)
-![Random Number Generator](path-to-screenshot-2)
-![Timer](path-to-screenshot-3)
+![Home Screen](![WhatsApp Image 2024-06-29 at 11 32 04_922bdd63](https://github.com/snu0929/utilities-mobile-app/assets/113917963/1a7e67eb-4c36-46c7-8c39-c9e22881411e)
+)
+)
+![Random Number Generator](![WhatsApp Image 2024-06-29 at 11 32 02_e90866cb](https://github.com/snu0929/utilities-mobile-app/assets/113917963/0547878f-0da2-44d5-b2cb-496ff16d13d3)
+)
+![Timer](![WhatsApp Image 2024-06-29 at 11 32 02_4f80987e](https://github.com/snu0929/utilities-mobile-app/assets/113917963/3fca0964-7059-46e5-a271-06014b7579ea)
+)
 ![Text Case Converter](path-to-screenshot-4)
 ![Day Finder](path-to-screenshot-5)
 ![Date Difference Calculator](path-to-screenshot-6)
@@ -68,6 +74,20 @@ This is a React Native Utility Application built using Expo. The application inc
 - **Yarn**: For dependency management.
 - **React Navigation**: For navigating between screens.
 - **React Native Vector Icons**: For icons used in the application.
+
+## How to Scan QR Code
+
+To scan the QR code and run the application on your device:
+
+1. Install the Expo Go app from the App Store (iOS) or Google Play Store (Android).
+2. Open the Expo Go app.
+3. Scan the QR code below:
+
+![QR Code](path-to-qr-code)
+
+## Download APK
+
+You can download the APK file to install the application directly on your Android device. [Download APK](path-to-apk-file)
 
 ## Contributing
 
