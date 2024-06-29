@@ -56,8 +56,8 @@ This is a React Native Utility Application built using Expo. The application inc
 
 ## Screenshots
 
-![Home Screen](![WhatsApp Image 2024-06-29 at 11 32 04_922bdd63](https://github.com/snu0929/utilities-mobile-app/assets/113917963/1a7e67eb-4c36-46c7-8c39-c9e22881411e)
-)
+![Home Screen](https://github.com/snu0929/utilities-mobile-app/assets/113917963/1a7e67eb-4c36-46c7-8c39-c9e22881411e | width=300)
+
 )
 ![Random Number Generator](![WhatsApp Image 2024-06-29 at 11 32 02_e90866cb](https://github.com/snu0929/utilities-mobile-app/assets/113917963/0547878f-0da2-44d5-b2cb-496ff16d13d3)
 )
