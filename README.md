@@ -32,7 +32,7 @@ This is a React Native Utility Application built using Expo. The application inc
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/utility-app.git
+    git clone https://github.com/snu0929/utility-app.git
     cd utility-app
     ```
 
@@ -56,7 +56,8 @@ This is a React Native Utility Application built using Expo. The application inc
 
 ## Screenshots
 
-![Home Screen]()
+![Home Screen](![image](https://github.com/snu0929/utilities-mobile-app/assets/113917963/ecee3170-ec6e-4d67-b5cc-2abd2a9a9033)
+)
 ![Random Number Generator]()
 ![Timer]()
 ![Text Case Converter](path-to-screenshot-4)
