@@ -55,6 +55,7 @@ This is a React Native Utility Application built using Expo. The application inc
 - **Date Difference Calculator**: Input two dates to calculate the difference between them.
 
 ## Screenshots
+![image](https://github.com/snu0929/utilities-mobile-app/assets/113917963/21136c93-ee1e-4df2-8a20-6d9055ac63e2)
 
 ![Home Screen](![image](https://github.com/snu0929/utilities-mobile-app/assets/113917963/ecee3170-ec6e-4d67-b5cc-2abd2a9a9033)
 )
