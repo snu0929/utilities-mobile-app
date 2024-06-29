@@ -81,11 +81,12 @@ To scan the QR code and run the application on your device:
 2. Open the Expo Go app.
 3. Scan the QR code below:
 
-![QR Code](path-to-qr-code)
+![QR Code](![image](https://github.com/snu0929/utilities-mobile-app/assets/113917963/eb84b45d-100c-46dd-8205-fa5d7c99e6de)
+)
 
 ## Download APK
 
-You can download the APK file to install the application directly on your Android device. [Download APK](path-to-apk-file)
+You can download the APK file to install the application directly on your Android device. [Download APK](https://expo.dev/accounts/sonu0929/projects/utility-app/builds/6862b80d-a55f-443b-91df-db375076ad1a )
 
 ## Contributing
 
