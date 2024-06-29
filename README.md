@@ -57,11 +57,8 @@ This is a React Native Utility Application built using Expo. The application inc
 ## Screenshots
 
 ![Home Screen]()
-
 ![Random Number Generator]()
-
 ![Timer]()
-
 ![Text Case Converter](path-to-screenshot-4)
 ![Day Finder](path-to-screenshot-5)
 ![Date Difference Calculator](path-to-screenshot-6)
