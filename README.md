@@ -56,13 +56,12 @@ This is a React Native Utility Application built using Expo. The application inc
 
 ## Screenshots
 
-![Home Screen](https://github.com/snu0929/utilities-mobile-app/assets/113917963/1a7e67eb-4c36-46c7-8c39-c9e22881411e | width=300)
+![Home Screen]()
 
-)
-![Random Number Generator](![WhatsApp Image 2024-06-29 at 11 32 02_e90866cb](https://github.com/snu0929/utilities-mobile-app/assets/113917963/0547878f-0da2-44d5-b2cb-496ff16d13d3 | width=300)
-)
-![Timer](![WhatsApp Image 2024-06-29 at 11 32 02_4f80987e](https://github.com/snu0929/utilities-mobile-app/assets/113917963/3fca0964-7059-46e5-a271-06014b7579ea)
-)
+![Random Number Generator]()
+
+![Timer]()
+
 ![Text Case Converter](path-to-screenshot-4)
 ![Day Finder](path-to-screenshot-5)
 ![Date Difference Calculator](path-to-screenshot-6)
